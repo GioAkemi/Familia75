@@ -2,7 +2,7 @@ package lista01;
 
 import java.util.Scanner;
 
-public class Exc3 {
+public class Exc03 {
     public static void main(String[] args) {
         float salBru, adcN, horasX, desc, salLiq;
         Scanner leia = new Scanner(System.in);

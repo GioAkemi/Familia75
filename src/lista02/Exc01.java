@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Exc01 {
     public static void main(String[] args) {
         int A,B,C;
+        
         Scanner leia = new Scanner(System.in);
 
         System.out.println("Insira o valor de A: ");

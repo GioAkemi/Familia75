@@ -16,7 +16,7 @@ public class Exc3 {
         System.out.println("Insira os descontos: ");
         desc = leia.nextFloat();
 
-        salLiq = (salBru+adcN+horasX) - desc;
+        salLiq = salBru+adcN+ (horasX*5) - desc;
 
         System.out.printf("Seu salário líquido é de: %.2f" , salLiq);
 

@@ -1,4 +1,4 @@
-package java4Operadores;
+package Java4_Operadores;
 
 import java.util.Scanner;
 

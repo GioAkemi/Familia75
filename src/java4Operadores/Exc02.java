@@ -1,4 +1,4 @@
-package lista01;
+package java4Operadores;
 
 import java.util.Scanner;
 

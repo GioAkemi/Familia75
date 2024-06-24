@@ -1,4 +1,4 @@
-package lista02;
+package java5controlflow;
 
 import java.util.Scanner;
 
